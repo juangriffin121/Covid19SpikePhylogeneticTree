@@ -1,0 +1,1 @@
+Use maketree to show the tree without saving the image, use savetree to save it.
